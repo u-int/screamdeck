@@ -14,6 +14,6 @@ https://youtu.be/l0zcUE34MTo
 - RGB-LED is like 80% right (should be 100%)
 - error-handling is suboptimal
 
-#### Devloped on Linux
+#### Developed on Linux
 
 Meaning that if you are on Windows you don't need the "port.sh"-file (that's why it's in a Folder named "Linux" duh)
