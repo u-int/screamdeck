@@ -16,4 +16,4 @@ https://youtu.be/l0zcUE34MTo
 
 #### Developed on Linux
 
-Meaning that if you are on Windows you don't need the "port.sh"-file (that's why it's in a Folder named "Linux" duh)
+Meaning that if you are on Windows you don't need the "port.sh"-file (that's why it's in a folder named "Linux" duh)
